@@ -1,3 +1,5 @@
+<div style="background-color: white; padding: 20px;">
+
 <img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif" style="width: 100%;"/>
 
 <h1 align="center">Hi👋, I'm Athif Zakiyanto</h1>
@@ -20,3 +22,4 @@ QA Engineer Enthusiast experienced in various testing methodologies, encompassin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zackyantoleo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=zackyantoleo&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zackyantoleo&theme=dark&hide_border=true)<br/>
+</div>
