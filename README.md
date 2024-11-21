@@ -1,4 +1,4 @@
-<img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif" style="width: 70%;"/>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif" style="width: 100%;"/>
 
 <h1 align="center">Hi👋, I'm Athif Zakiyanto</h1>
 <h3 align="center">QA Engineer Enthusiast (Manual, Automation, UI, API, Database)</h3>
