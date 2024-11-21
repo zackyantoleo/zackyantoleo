@@ -1,3 +1,4 @@
+<img src="LinkedIn Cover4.jpg" alt="Banner Image" style="width: 100%; max-width: 800px; border-radius: 10px;"/>
 
 <h1 align="center">Hi 👋, I'm Athif Zakiyanto</h1>
 <h3 align="center">QA Engineer Enthusiast (Manual, Automation, UI, API, Database)</h3>
