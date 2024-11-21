@@ -2,7 +2,7 @@
 
 <img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif" style="width: 100%;"/>
 
-<h1 align="center">Hi👋, I'm Athif Zakiyanto</h1>
+<h1 align="center">Hi👋, I'm Athif Zaki</h1>
 <h3 align="center">QA Engineer Enthusiast (Manual, Automation, UI, API, Database)</h3>
 
 QA Engineer Enthusiast experienced in various testing methodologies, encompassing Functional, API, Database, and UI testing. Experienced with Automation testing using Katalon, Cypress, Selenium, and Playwright. Skilled in creating Test cases, Test plans, and Bug reports. Possesses IT troubleshooting skills and interest in IT Security.
